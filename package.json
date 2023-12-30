@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.4",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.5"
+  }
+}
